@@ -17,9 +17,9 @@ PhilBot is a conversational AI agent that lets users discuss moral dilemmas or j
 pip install -r requirements.txt
 ```
 
-### 2. Get an Anthropic API Key
+### 2. Get a Groq API Key
 
-Sign up at [https://console.anthropic.com](https://console.anthropic.com) and create an API key.
+Sign up at https://console.groq.com/keys and create an API key.
 
 ### 3. Run the app
 
